@@ -63,6 +63,10 @@ class GameLogic:
             return score</code>
 
 
+### Navigator : Eman Obeidat , Mohammed Al sa'ad
+### Driver : Walaa Alrefai 
+
+
 
 
 
