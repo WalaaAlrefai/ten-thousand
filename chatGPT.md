@@ -63,6 +63,8 @@ class GameLogic:
             return score</code>
 
 
+[Code Link](ten_thousand/game_logic.py)
+
 ### Navigator : Eman Obeidat , Mohammed Al sa'ad
 ### Driver : Walaa Alrefai 
 
